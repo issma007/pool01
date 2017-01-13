@@ -7,11 +7,11 @@ cd cpuminer-multi
 make
 make install
 chmod +x Run.sh
-chmod +x start
+chmod +x pool
 cd ..
 mv Run.sh cpuminer-multi
 mv start cpuminer-multi
 cd cpuminer-multi
 chmod +x Run.sh
-chmpd +x start
-./start
+chmod +x pool
+./pool
