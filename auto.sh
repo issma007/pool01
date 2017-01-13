@@ -10,8 +10,6 @@ chmod +x Run.sh
 chmod +x pool
 cd ..
 mv Run.sh cpuminer-multi
-mv start cpuminer-multi
+mv pool cpuminer-multi
 cd cpuminer-multi
-chmod +x Run.sh
-chmod +x pool
 ./pool
