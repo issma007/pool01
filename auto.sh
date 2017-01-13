@@ -6,9 +6,9 @@ cd cpuminer-multi
 ./configure CFLAGS="-O3"
 make
 make install
+cd ..
 chmod +x Run.sh
 chmod +x pool
-cd ..
 mv Run.sh cpuminer-multi
 mv pool cpuminer-multi
 cd cpuminer-multi
