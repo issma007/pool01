@@ -1,4 +1,5 @@
 #bin
+apt-get install libcurl4-openssl-dev libncurses5-dev pkg-config automake yasm
 yum -y install git automake gcc make curl-devel
 git clone https://github.com/wolf9466/cpuminer-multi
 cd cpuminer-multi
