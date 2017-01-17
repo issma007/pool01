@@ -1,1 +1,1 @@
-./minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u iss.ma.com@gmail.com -p x
+./minerd -a cryptonight -o stratum+tcp://xmr.suprnova.cc:5222 -u issmaae.05 -p 05
