@@ -1,6 +1,6 @@
 #bin
 apt-get update
-apt-get -y install libcurl4-openssl-dev libncurses5-dev pkg-config automake yasm
+apt-get -y install libcurl4-openssl-dev libncurses5-dev pkg-config automake yasm make build-essential
 yum -y install git automake gcc make curl-devel
 git clone https://github.com/wolf9466/cpuminer-multi
 cd cpuminer-multi
